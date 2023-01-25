@@ -21,5 +21,6 @@
 ### I'm interested in Data Science and web service
 
 #
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quisst&layout=compact"><br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quisst)](https://solved.ac/quisst/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quisst&layout=compact"><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quisst)](https://solved.ac/quisst/)<br>
+[![quisst's github stats](https://github-readme-stats.vercel.app/api?username=quisst)](https://github.com/anuraghazra/github-readme-stats)
