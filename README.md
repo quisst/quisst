@@ -23,4 +23,4 @@
 #
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quisst&layout=compact"><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quisst)](https://solved.ac/quisst/)<br>
-[![quisst's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=quiss)](https://github.com/anuraghazra/github-readme-stats)
+[![quisst's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=quisst)](https://github.com/anuraghazra/github-readme-stats)
