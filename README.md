@@ -1,5 +1,10 @@
-# I'm CHOI MINSEO 👋
-- 📖 I learned using 
+# 👋 I'm CHOI MINSEO
+
+### 💡 I'm interested in Data Science and Web Service
+
+<br>
+
+- 📖 I learned using  
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
@@ -9,8 +14,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
 
-- 🌱 I’m currently learning
+<br>
 
+- 🌱 I’m currently learning  
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
@@ -18,8 +24,12 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </div>
 
-### I'm interested in Data Science and web service
-
 #
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quisst&layout=compact"><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quisst)](https://solved.ac/quisst/)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quisst)](https://solved.ac/quisst/)
+
+## 📜 Certifications
+
+- **SQLD** (2025.04.04)  
+- **정보처리기능사** (2019.03.07)
