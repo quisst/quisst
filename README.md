@@ -31,5 +31,6 @@
 
 ## 📜 Certifications
 
+- **SK AI Dream Camp (고급)** (2025.08.04) [수료증](./mySUNI-BADGE-CERTIFICATE-최민서-2025.08.04.png)
 - **SQLD** (2025.04.04)  
 - **정보처리기능사** (2019.03.07)
